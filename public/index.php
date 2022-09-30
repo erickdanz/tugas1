@@ -91,7 +91,7 @@
               <ul>
                 <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 August 2002</span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+62 812 6508 7169</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>North Sumatra, Indonesia</span></li>
+                <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Medan, North Sumatra, Indonesia</span></li>
               </ul>
             </div>
             <div class="col-lg-6">
